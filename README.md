@@ -19,6 +19,10 @@
 <a  style="margin-left: 20px;" href="https://www.credly.com/badges/26864948-f129-4c14-a899-86651c7e290a/public_url">
     <img src="https://images.credly.com/size/340x340/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" alt="Data Analytics Essentials" width="100" height="100">
 </a>
+
+<a  style="margin-left: 20px;" href="https://university.atlassian.com/student/award/ebQQWHKSConcvaAx8SDHYXUK">
+    <img src="https://cdn.exceedlms.com/uploads/certifications/badges/28613/large/uni-credential-emblem-jirafundamentals.png?1624917008&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZXhjZWVkbG1zLmNvbS91cGxvYWRzL2NlcnRpZmljYXRpb25zL2JhZGdlcy8yODYxMy9sYXJnZS91bmktY3JlZGVudGlhbC1lbWJsZW0tamlyYWZ1bmRhbWVudGFscy5wbmc~MTYyNDkxNzAwOCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzE5Mzk0Mn19fV19&Signature=SjNLII51zQINtkDy9LpbsFBtUc5Btaz1Q-WNOFX-hU4ySGaKm7gXJ9PA-G4prCasMr6M-fHJXt2wL2GhYqB23RnSV4VuG9VZEvS3HzLOO3ykf07y~zKj6ioGFoOYGRJo0tpR7NsPstk-rZtDegYkx~A7KzC9ys7J~rDpzfJ31AEsY46jAuSPf-nItm2k~dy52n-JD66HDRi0R~bz293iBZYKUlKxHM8uWslej6s6fkvM88HdcDSVo3uzNBvSzrsI6PLgGNkOydIuO-y~89GMxhXNSAhI2kl5TVqIuO2OGky1K2Msln4~5mFV0jHVzCBBWYsM1aqwwIzBRG~pNT8vjQ__&Key-Pair-Id=APKAJINUZDMKZJI5I6DA" alt="Jira Fundamentals Badge" width="100" height="100">
+</a>
 </div>
 
 
