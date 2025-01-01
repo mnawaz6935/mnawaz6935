@@ -3,28 +3,75 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadnawazch) [![Credly](https://img.shields.io/badge/Credly-%230077B5.svg?logo=credly&logoColor=white)](https://www.credly.com/users/mnawaz6935) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadnawazch) [![Credly](https://img.shields.io/badge/Credly-%230077B5.svg?logo=credly&logoColor=white)](https://www.credly.com/users/mnawaz6935) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/MuhammadNawazCH)
 
 ## 🏅 Certifications:
-<div style="display: flex; align-items: center;">
-<a href="https://www.credly.com/badges/7f1849f9-5e2f-4b37-9a16-3350409e2564/public_url">
-<img  style="margin-left: 20px;" src="https://images.credly.com/size/680x680/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" alt="Endpoint Security" width="100" height="100">
-</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
 
-<a  style="margin-left: 20px;" href="https://www.credly.com/badges/6afa544a-1a82-48f8-927b-fdcd467da78a/public_url">
-    <img src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science" width="100" height="100">
-</a>
+  <div>
+    <a href="https://www.hackerrank.com/certificates/921999676514">
+      <img src="se-hacker-rank.png" alt="Software Engineer" width="150" style="display: block; margin: auto;">
+      <p style="text-align: center;"><strong>Software Engineer</strong></p>
+    </a>
+  </div>
 
-<a  style="margin-left: 20px;" href="https://www.credly.com/badges/26864948-f129-4c14-a899-86651c7e290a/public_url">
-    <img src="https://images.credly.com/size/340x340/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" alt="Data Analytics Essentials" width="100" height="100">
-</a>
+  <div>
+    <a href="https://www.hackerrank.com/certificates/3b5cbb346a61">
+      <img src="problem-solving-hacker-rank.png" alt="Rest API" width="150" style="display: block; margin: auto;">
+      <p style="text-align: center;"><strong>Problem Solving</strong></p>
+    </a>
+  </div>
 
-<a  style="margin-left: 20px;" href="https://university.atlassian.com/student/award/ebQQWHKSConcvaAx8SDHYXUK">
-    <img src="jira-badge.png" alt="Jira Fundamentals Badge" width="100" height="100">
-</a>
+  <div>
+    <a href="https://www.hackerrank.com/certificates/e30f117d00bb">
+      <img src="rest-api-hacker-rank.png" alt="Rest API" width="150" style="display: block; margin: auto;">
+      <p style="text-align: center;"><strong>Rest API</strong></p>
+    </a>
+  </div>
+
+  <div>
+    <a href="https://www.hackerrank.com/certificates/f8e68cc6fe4f">
+      <img src="nodejs-hacker-rank.png" alt="Node JS" width="150" style="display: block; margin: auto;">
+      <p style="text-align: center;"><strong>Node JS</strong></p>
+    </a>
+  </div>
+
+  <div>
+    <a href="https://www.hackerrank.com/certificates/55319d353e52">
+      <img src="sql-hacker-rank.png" alt="SQL" width="150" style="display: block; margin: auto;">
+      <p style="text-align: center;"><strong>SQL</strong></p>
+    </a>
+  </div>
+
+  <div>
+    <a href="https://www.credly.com/badges/7f1849f9-5e2f-4b37-9a16-3350409e2564/public_url">
+      <img src="https://images.credly.com/size/680x680/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" alt="Endpoint Security" width="100" style="display: block; margin: auto;">
+      <p style="text-align: center;"><strong>Endpoint Security</strong></p>
+    </a>
+  </div>
+
+  <div>
+    <a href="https://www.credly.com/badges/6afa544a-1a82-48f8-927b-fdcd467da78a/public_url">
+      <img src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science" width="100" style="display: block; margin: auto;">
+      <p style="text-align: center;"><strong>Intro to Data Science</strong></p>
+    </a>
+  </div>
+
+  <div>
+    <a href="https://www.credly.com/badges/26864948-f129-4c14-a899-86651c7e290a/public_url">
+      <img src="https://images.credly.com/size/340x340/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" alt="Data Analytics Essentials" width="100" style="display: block; margin: auto;">
+      <p style="text-align: center;"><strong>Data Analytics Essentials</strong></p>
+    </a>
+  </div>
+
+  <div>
+    <a href="https://university.atlassian.com/student/award/ebQQWHKSConcvaAx8SDHYXUK">
+      <img src="jira-badge.png" alt="Jira Fundamentals Badge" width="100" style="display: block; margin: auto;">
+      <p style="text-align: center;"><strong>Jira Fundamentals</strong></p>
+    </a>
+  </div>
+
 </div>
-
 
 
 # 💻 Tech Stack:
