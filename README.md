@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadnawazch) [![Credly](https://img.shields.io/badge/Credly-%230077B5.svg?logo=credly&logoColor=white)](https://www.credly.com/users/mnawaz6935) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/MuhammadNawazCH)
 
 ## 🏅 Certifications:
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 150px)); gap: 20px; justify-items: center; align-items: center;">
 
   <div>
     <a href="https://www.hackerrank.com/certificates/921999676514">
